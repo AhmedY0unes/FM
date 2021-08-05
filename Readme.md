@@ -8,4 +8,4 @@ hello
 
 ## New feature heading
 
-<p>hello<p>
+<p>world<p>
